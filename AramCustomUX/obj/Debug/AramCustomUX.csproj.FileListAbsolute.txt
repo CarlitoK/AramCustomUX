@@ -1,0 +1,11 @@
+C:\Users\Carlos\source\repos\AramCustomUX\AramCustomUX\bin\Debug\AramCustomUX.exe.config
+C:\Users\Carlos\source\repos\AramCustomUX\AramCustomUX\bin\Debug\AramCustomUX.exe
+C:\Users\Carlos\source\repos\AramCustomUX\AramCustomUX\bin\Debug\AramCustomUX.pdb
+C:\Users\Carlos\source\repos\AramCustomUX\AramCustomUX\obj\Debug\AramCustomUX.csprojAssemblyReference.cache
+C:\Users\Carlos\source\repos\AramCustomUX\AramCustomUX\obj\Debug\AramCustomUX.Form1.resources
+C:\Users\Carlos\source\repos\AramCustomUX\AramCustomUX\obj\Debug\AramCustomUX.Properties.Resources.resources
+C:\Users\Carlos\source\repos\AramCustomUX\AramCustomUX\obj\Debug\AramCustomUX.csproj.GenerateResource.cache
+C:\Users\Carlos\source\repos\AramCustomUX\AramCustomUX\obj\Debug\AramCustomUX.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\AramCustomUX\AramCustomUX\obj\Debug\AramCustomUX.exe
+C:\Users\Carlos\source\repos\AramCustomUX\AramCustomUX\obj\Debug\AramCustomUX.pdb
+C:\Users\Carlos\source\repos\AramCustomUX\AramCustomUX\obj\Debug\AramCustomUX.BanList.resources

@@ -135,9 +135,5 @@ namespace AramCustomUX {
         private void openBanList_Click(object sender, EventArgs e) {
             new BanList().Show();
         }
-
-        private void Form1_Load(object sender, EventArgs e) {
-
-        }
     }
 }
